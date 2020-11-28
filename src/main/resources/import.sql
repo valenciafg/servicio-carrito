@@ -1,0 +1,9 @@
+INSERT INTO Producto (nombre, precio, create_at) VALUES('Laptop', 800, NOW());
+INSERT INTO Producto (nombre, precio, create_at) VALUES('TV', 700, NOW());
+INSERT INTO Producto (nombre, precio, create_at) VALUES('Macbook', 1000, NOW());
+INSERT INTO Producto (nombre, precio, create_at) VALUES('Notebook', 1000, NOW());
+INSERT INTO Producto (nombre, precio, create_at) VALUES('Impresora', 500, NOW());
+INSERT INTO Producto (nombre, precio, create_at) VALUES('Mouse', 600, NOW());
+INSERT INTO Producto (nombre, precio, create_at) VALUES('Teclado', 100, NOW());
+INSERT INTO Producto (nombre, precio, create_at) VALUES('Escritorio', 200, NOW());
+INSERT INTO Producto (nombre, precio, create_at) VALUES('Silla', 300, NOW());
